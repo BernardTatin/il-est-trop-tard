@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great|Old+Standard+TT&display=swap');
+
+
+.post__content p,
+p.post-card__description {
+	text-align: justify;
+}
+
+body {
+  font-family: 'Old Standard TT', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Fredericka the Great', cursive;
+  font-weight: 400;
+}
