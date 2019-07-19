@@ -4,7 +4,7 @@ date: 2019-07-19
 tags:
   - Markdown
   - Musique
-description: >-
+description:
   "J'avais en tête un tube des Rolling Stones lorsque je cherchais un titre pour ce site, c'était It's to late..."
 ---
 
