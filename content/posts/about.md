@@ -2,7 +2,7 @@
 title: il est trop tard
 date: 2019-07-19
 tags: ['Markdown', 'Musique']
-description: "J'avais en tête un tube des Rolling Stones lorsque je cherchais un titre pour ce site, c'était It's to late..."
+description: "J'avais en tête un tube des Rolling Stones lorsque je cherchais un titre pour ce site. C'était It's to late..."
 
 ---
 
