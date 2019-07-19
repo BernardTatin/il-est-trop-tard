@@ -4,17 +4,24 @@
       <h1 class="post-title__text">
         {{ $page.post.title }}
       </h1>
-      
+
       <PostMeta :post="$page.post" />
 
     </div>
-    
+
     <div class="post content-box">
       <div class="post__header">
         <g-image alt="Cover image" v-if="$page.post.coverImage" :src="$page.post.coverImage" />
       </div>
-
+      <!--
+      <p>Avant description</p>
+      <p class="post-card__description" v-html="$page.post.description" />
+      <p>Après description</p>
+      -->
       <div class="post__content" v-html="$page.post.content" />
+      <!--
+      <p class="post-card__description">Après contenu</p>
+    -->
 
       <div class="post__footer">
         <PostTags :post="$page.post" />
@@ -88,7 +95,7 @@ query Post ($path: String!) {
     margin-bottom: calc(var(--space) / 2);
     overflow: hidden;
     border-radius: var(--radius) var(--radius) 0 0;
-    
+
     img {
       width: 100%;
     }
@@ -119,7 +126,7 @@ query Post ($path: String!) {
 
 .post-comments {
   padding: calc(var(--space) / 2);
-  
+
   &:empty {
     display: none;
   }
