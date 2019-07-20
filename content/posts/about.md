@@ -1,9 +1,8 @@
 ---
 title: il est trop tard
-date: 2019-07-19
-published: true
+date: 2029-07-19
 tags: ['Markdown','Test files']
-canonical_url: false
+coverImage: /images/uploads/EnConstruction.jpg
 description: "J'avais en tête un tube des Rolling Stones alors que je cherchais un titre pour ce site..."
 ---
 
