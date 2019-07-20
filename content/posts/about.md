@@ -7,3 +7,5 @@ description: "J'avais en tête un tube des Rolling Stones alors que je cherchais
 ---
 
 C'était _It's to late_... En fait, c'était la version d'_Otis Redding_, tellement plus poignante, qui me trottait dans la tête. Oui, _il est trop tard_ pour recoudre certaines parties de ma mémoire.
+
+> Ici, je devrais avoir la description affichée en début de texte mais ce n'est pas le cas alors que j'ai fait du copié/collé depuis les pages d'exemples fournies avec le site.
